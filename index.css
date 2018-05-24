@@ -1,0 +1,11 @@
+body{
+    width: 90%;
+    margin-left: 5%;
+}
+.red{
+    background-color: rgb(255, 87, 87);
+    color: white;
+}
+.yellow{
+    background-color: rgb(255, 206, 0);
+}
